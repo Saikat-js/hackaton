@@ -4,7 +4,7 @@
 [![Prototype](https://img.shields.io/badge/Made%20with-Thunkable-4285F4?style=for-the-badge&logo=thunkable&logoColor=white)](https://x.thunkable.com/projectPage/69bd945d43e728384ff6ce85)
 
 
-> ⚡ **A women safety prototype built with Thunkable** — designed to provide instant assistance and peace of mind at the touch of a button.
+> ⚡ **A women safety prottype built with Thunkable** — designed to provide instant assistance and peace of mind at the touch of a button.
 
 ---
 
