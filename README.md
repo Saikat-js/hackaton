@@ -1,8 +1,8 @@
 # 🛡️ Insta Safe 
 ### *Your Personal Safety Companion*
 
-[![Thunkable](https://img.shields.io/badge/Made%20with-Thunkable-4285F4?style=for-the-badge&logo=thunkable&logoColor=white)](https://thunkable.com)
-[![Status](https://img.shields.io/badge/Status-Prototype-yellow?style=for-the-badge)]()
+[![Prototype](https://img.shields.io/badge/Made%20with-Thunkable-4285F4?style=for-the-badge&logo=thunkable&logoColor=white)](https://x.thunkable.com/projectPage/69bd945d43e728384ff6ce85)
+
 
 > ⚡ **A women safety prototype built with Thunkable** — designed to provide instant assistance and peace of mind at the touch of a button.
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### [📲 Try the Prototype](https://x.thunkable.com/copy/YOUR-LINK-HERE)
+### [📲 Try the Prototype](https://x.thunkable.com/projectPage/69bd945d43e728384ff6ce85)
 
 *Click the link above and select "Copy Project" to get started*
 
@@ -33,28 +33,13 @@
 
 ## 🎯 About The Project
 
-**Insta Safe** is a women safety prototype developed using **Thunkable**, a powerful drag-and-drop app builder. This project demonstrates how no-code platforms can be leveraged to create impactful safety solutions that are accessible, intuitive, and potentially life-saving.
+**Insta Safe** is a women safety prototype developed using **Thunkable**,this prototype demonstrates how accessible technology can empower individuals with quick-response safety features at their fingertips.
 
 ### 🎨 Built With
 - **Thunkable** — Cross-platform app development
-- **Google Maps API** — Location and mapping services
-- **Push Notifications** — Real-time alerts
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Home Screen | SOS Alert | Live Tracking |
-|:-----------:|:---------:|:-------------:|
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![SOS](https://via.placeholder.com/200x400?text=SOS+Alert) | ![Tracking](https://via.placeholder.com/200x400?text=Tracking) |
-
-</div>
-
-> *📌 Add your actual screenshots above by replacing the placeholder image URLs*
-
----
 
 ## 🚀 How to Use
 
@@ -67,11 +52,6 @@
 1. Download the **Thunkable Live** app from [Google Play](https://play.google.com/store/apps/details?id=com.thunkable.live) or [App Store](https://apps.apple.com/us/app/thunkable-live/id1223233964)
 2. Open the prototype link on your mobile device
 3. Tap **"Open in Thunkable Live"** to test the app
-
-### Option 3: Edit & Customize
-- Modify emergency contact numbers
-- Customize UI colors and branding
-- Add additional safety features
 
 ---
 
@@ -93,7 +73,7 @@
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0.0 | 2024 | Initial prototype release |
+| 1.0.0 | 23-03-2026 | Initial prototype release |
 
 ---
 
@@ -114,7 +94,7 @@ This project is for educational and demonstration purposes.
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ using Thunkable
+- Built with ❤️ by Tech Titans
 - Inspired by the need for accessible women safety solutions
 
 ---
@@ -129,6 +109,5 @@ This project is for educational and demonstration purposes.
 
 ## 🔗 Quick Links
 
-[![Prototype](https://img.shields.io/badge/▶️_Try_Prototype-4285F4?style=for-the-badge)](YOUR-LINK-HERE)
-[![Thunkable](https://img.shields.io/badge/📱_Thunkable-4285F4?style=for-the-badge)](https://thunkable.com)
-[![Report Issue](https://img.shields.io/badge/🐛_Report_Issue-red?style=for-the-badge)](YOUR-ISSUES-LINK)
+[![Prototype](https://img.shields.io/badge/▶️_Try_Prototype-4285F4?style=for-the-badge)](https://x.thunkable.com/projectPage/69bd945d43e728384ff6ce85)
+
